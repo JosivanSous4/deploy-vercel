@@ -1,5 +1,7 @@
 ### Deploy Vercel
 
+By: @danileao
+
 Projeto utilizado para exemplo de deploy utilizando Vercel
 
 ## Como baixar o projeto?
